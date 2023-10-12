@@ -26,7 +26,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![quiz](https://github.com/Sookchand/Quiz-Game/assets/34344439/a87f0e11-4504-4f3e-8522-77ba9d86c4b0)
+
 
 
 ## Tech Stack
